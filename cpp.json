@@ -59,6 +59,8 @@
 			"#define vc vector<char>",
 			"#define vs vector<string>",
 			"#define pb push_back",
+			"//debug",
+			"#define cpoint cout << \"_________________CHECK POINT_________________\n\";",
 			"",
 			"using namespace std;",
 			"",
